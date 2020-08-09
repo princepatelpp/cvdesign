@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+div {
+  background-color: #cedebd;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+  margin-top: 0;
+  margin: 0 auto;
+  padding: 50px;
+  padding-bottom: 0px;
+}
+.topcontainer {
+  height: 768px;
+}
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  left: 189px;
+  top: 58px;
+}
+
+p {
+  margin: 0px;
+}
+.round {
+  border-radius: 100%;
+}
